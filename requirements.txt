@@ -1,0 +1,2 @@
+python-docx # to check Word files
+pymupdf     # to check PDF files
